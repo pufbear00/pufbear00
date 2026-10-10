@@ -1,10 +1,10 @@
-# AI × 财务与运营 · 项目作品集
+# AI项目
 
-围绕财务、人事与运营中的实际工作，搭建 AI 辅助流程和业务工具。
+围绕财务与人事中的实际工作，搭建 AI 辅助流程和业务工具。
 
 我负责需求梳理、业务规则、数据结构、检查与验收，并根据使用反馈持续调整；代码借助 Codex 完成。
 
-## 简历项目
+## 项目列表
 
 | 项目 | 解决的问题 | 查看项目 |
 | :--- | :--- | :--- |
@@ -13,11 +13,7 @@
 | **财务做账系统** | 围绕审批、凭证和附件管理组织财务资料，支持本地回单处理与凭证导出。 | [项目说明与源码 ↗](https://github.com/pufbear00/financial-accounting-system) |
 | **合同归档系统** | 提取合同关键信息，整理文件命名与归档清单，让合同资料更容易查找和核对。 | [流程说明与源码 ↗](https://github.com/pufbear00/contract-archiving-system) |
 | **云服务研发费用看板** | 整理云服务费用记录与汇总口径，展示费用模型、通用采集器结构和离线统计入口。 | [项目说明与源码 ↗](https://github.com/pufbear00/cloud-service-rd-cost-dashboard) |
-
-## 更多项目
-
-**[HR 合同系统 ↗](https://github.com/pufbear00/hr-contract-system)**  
-员工与公司信息管理、合同模板管理及本地文档生成。
+| **HR 合同系统** | 员工与公司信息管理、合同模板管理及本地文档生成。 | [项目说明与源码 ↗](https://github.com/pufbear00/hr-contract-system) |
 
 ---
 
